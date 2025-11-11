@@ -1,9 +1,9 @@
 {
-   "format_version" : 1,
+   "format_version" : 2,
    "header" : {
       "description" : "1.Ver5.0久違的回來修正基岩版翻譯內容
-      2.未修正長矛等翻譯",
-      "name" : "Mc基岩版的繁體中文修正资源包",
+2.未修正長矛等翻譯",
+      "name" : "Mc基岩版的繁體中文修正資源包",
       "platform_locked" : false,
       "uuid" : "1457cb0c-12e8-4cfb-b647-68ca8a0116b1",
       "version" : [ 5, 0, 0 ]
