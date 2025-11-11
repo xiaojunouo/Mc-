@@ -28,7 +28,7 @@
 # 溫馨小提醒:
 .mcpack下載完之後如果寫開啟不了之類的訊息，那就請到Google瀏覽器那邊的“下載”開啟Minecraft的選項
 
-之後會在這裡更新基岩版翻譯跟載點喔,巴哈文章將不提供載點
+之後會在這裡更新基岩版翻譯跟載點喔,巴哈文章持續更新文章,若想要幫忙一起協助翻譯修正,可以使用fork功能
 
 這是我的巴哈文章：[https://forum.gamer.com.tw/C.php?bsn=18673&snA=183269](https://forum.gamer.com.tw/C.php?bsn=18673&snA=183269)
 
