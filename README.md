@@ -32,4 +32,4 @@
 
 這是我的巴哈文章：[https://forum.gamer.com.tw/C.php?bsn=18673&snA=183269](https://forum.gamer.com.tw/C.php?bsn=18673&snA=183269)
 
-基岩版資源包載點：
+基岩版資源包載點：[https://github.com/xiaojunouo/MCBE-ReTw/releases](https://github.com/xiaojunouo/MCBE-ReTw/releases)
